@@ -11,5 +11,5 @@ This repository contains the findings from my vulnerability assessment of the OW
 3. Broken Access Control (Scoreboard Access)
 
 ### Files Included
-- **Security_Assessment_Report.pdf**: Full detailed report with remediation steps.
+- **Security_Assessment.pdf**: Full detailed report with remediation steps.
 - **Screenshots**: Proof of concept images for each vulnerability.
